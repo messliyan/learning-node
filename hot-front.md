@@ -1,0 +1,1 @@
+[rmd](https://raw.githubusercontent.com/mg0324/my-res/main/hot-front.md)
